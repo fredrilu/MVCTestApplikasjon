@@ -19,5 +19,10 @@ namespace MvcApplication1.Controllers
         {
             return View();
         }
+
+        public ActionResult New()
+        {
+            return View();
+        }
     }
 }
